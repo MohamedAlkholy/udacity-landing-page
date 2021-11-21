@@ -13,7 +13,7 @@ This project is the first project of udacity nanodegree front end with under Egy
 
 ## Instructions
 
-* download repo from here [landing page repo](https://github.com/MohamedAlkholy/udacity-landing-page.git)
+* download repo from [here](https://github.com/MohamedAlkholy/udacity-landing-page/archive/refs/heads/master.zip)
 * or clone repo using this link [landing page repo](https://github.com/MohamedAlkholy/udacity-landing-page.git)
 
 
